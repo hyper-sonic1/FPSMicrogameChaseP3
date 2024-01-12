@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: c3bdfdcb22480a24fbb66cb1981fe26b
+  productGUID: a40faf3c305e9fe4aa0535b79180c060
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -826,11 +826,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 74d8beee-35af-4e1e-b95c-2226a66a84fa
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: FPSMicrogameP3Chase
+  organizationId: hyper_sonic11
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
